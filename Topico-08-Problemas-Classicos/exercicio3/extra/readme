@@ -1,0 +1,2 @@
+Essa pasta contém uma implementação do problema do fumante de cigarro que suporta N recursos e N fumantes.
+Quando eu fiz o problema original eu pensei se uma solução genérica seria interessante, então tentei fazer, e isso é o resultado, a classe Main contém alguns comentários sobre como essa implementação funciona.
